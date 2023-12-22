@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-quicksand: Quicksand;
+    --font-jejugothic: JejuGothic;
+    --font-irish-grover: "Irish Grover";
+  
+    /* font sizes */
+    --font-size-61xl: 80px;
+    --font-size-base: 16px;
+    --font-size-sm: 14px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gray-100: #111;
+    --color-black: #000;
+    --color-silver: #bbb5b5;
+    --color-darkslategray: #4b4949;
+  
+    /* Gaps */
+    --gap-3xs: 10px;
+  
+    /* Paddings */
+    --padding-81xl: 100px;
+    --padding-3xs: 10px;
+    --padding-11xl: 30px;
+  
+    /* Border radiuses */
+    --br-8xs: 5px;
+  }
+  
